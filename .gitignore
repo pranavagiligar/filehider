@@ -1,0 +1,14 @@
+gradle/
+.gradle/
+.idea/
+release/
+build/
+app/build/
+app/app.iml
+FileHider.iml
+settings.gradle
+gradlew
+gradlew.bat
+import-summary.txt
+local.properties
+
